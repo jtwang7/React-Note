@@ -1,0 +1,30 @@
+.checkboard {
+  width: 300px;
+  height: 300px;
+  .row {
+    display: flex;
+    justify-content: space-evenly;
+    .btn {
+      border: 1px solid rgb(27, 27, 27);
+      box-sizing: border-box;
+      height: 100px;
+      width: 100px;
+      margin: 0;
+      padding: 0;
+
+      display: flex;
+      justify-content: space-evenly;
+      align-items: center;
+
+      font-weight: bolder;
+      font-size: 3em;
+
+      background-color: white;
+      transition-duration: 0.4s;
+    }
+    :hover {
+      background-color: black;
+      color: white;
+    }
+  }
+}
