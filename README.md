@@ -3,6 +3,8 @@ React 学习笔记
 
 ## React 学习路线 (持续更新...)
 * [React 中文官方文档](https://react.docschina.org/docs/hello-world.html)
+* [props-vs-state](https://github.com/uberVU/react-guide/blob/master/props-vs-state.md)
+* [props vs. state](https://lucybain.com/blog/2016/react-state-vs-pros/)
 
 ## React 相关网站
 * React 中文官方文档
