@@ -1,9 +1,4 @@
-# React-Note
-React 学习笔记
-
-## React 学习路线 (持续更新...)
-- [x] [React 中文官方文档](https://react.docschina.org/docs/hello-world.html)
-- [x] [Props vs. State](https://lucybain.com/blog/2016/react-state-vs-pros/)
+# React-Note (持续更新...)
 
 ## React 相关网站
 * React 中文官方文档
@@ -16,3 +11,10 @@ React 学习笔记
 ## React 第三方 UI 库
 * [Ant Design](https://ant.design/index-cn)
 * [Motion Design](https://motion.ant.design/index-cn)
+
+
+## 看过的文章
+- [x] [Props vs. State](https://lucybain.com/blog/2016/react-state-vs-pros/)
+- [ ] [重新认识 React 的 setState](https://keqingrong.cn/blog/2019-04-01-react-setstate)
+- [ ] [30分钟精通React Hooks](https://juejin.cn/post/6844903709927800846)
+- [ ] [函数式的 setState 是 React 的未来](https://juejin.cn/post/6844903698506711053)
