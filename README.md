@@ -15,6 +15,8 @@
 
 ## 看过的文章
 - [x] [Props vs. State](https://lucybain.com/blog/2016/react-state-vs-pros/)
-- [ ] [重新认识 React 的 setState](https://keqingrong.cn/blog/2019-04-01-react-setstate)
+- [x] [重新认识 React 的 setState](https://keqingrong.cn/blog/2019-04-01-react-setstate)
+- [x] [函数式的 setState 是 React 的未来](https://juejin.cn/post/6844903698506711053)
+- [x] [从零开始实现一个React（四）：异步的setState](https://github.com/hujiulong/blog/issues/7)
 - [ ] [30分钟精通React Hooks](https://juejin.cn/post/6844903709927800846)
-- [ ] [函数式的 setState 是 React 的未来](https://juejin.cn/post/6844903698506711053)
+- [ ] [React Hooks 详解](https://juejin.cn/post/6844903985338400782)
