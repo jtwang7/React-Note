@@ -20,3 +20,4 @@
 - [x] [从零开始实现一个React（四）：异步的setState](https://github.com/hujiulong/blog/issues/7)
 - [ ] [30分钟精通React Hooks](https://juejin.cn/post/6844903709927800846)
 - [ ] [React Hooks 详解](https://juejin.cn/post/6844903985338400782)
+- [ ] [React 开发必须知道的 34 个技巧](https://juejin.cn/post/6844903993278201870)
