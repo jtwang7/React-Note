@@ -24,3 +24,5 @@
 - [x] [这一次彻底搞定 useReducer - 基础概念](https://juejin.cn/post/6844903869437181960)
 - [x] [这一次彻底搞定useReducer-使用篇](https://juejin.cn/post/6844903869604986888)
 - [x] [这一次彻底搞定 useReducer - useContext使用](https://juejin.cn/post/6844903869609148430)
+- [x] ★[How to fetch data in React](https://www.robinwieruch.de/react-fetching-data)
+- [x] ★[How to fetch data with React Hooks?](https://www.robinwieruch.de/react-hooks-fetch-data)
