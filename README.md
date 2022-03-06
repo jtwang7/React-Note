@@ -2,26 +2,22 @@
 
 ## 开发文档
 
-✅[React中文官方文档](https://react.docschina.org/)
+✅ [React中文官方文档](https://react.docschina.org/)
 
-✅[Getting Started - React](https://reactjs.org/docs/getting-started.html)
+✅ [Getting Started - React](https://reactjs.org/docs/getting-started.html)
 
-<!-- 关于 React 创建 SPA 的说明文档 -->
-✅[Create React App](https://create-react-app.dev/docs/getting-started/)
+✅ [Create React App](https://create-react-app.dev/docs/getting-started/) `关于 React 创建 SPA 的说明文档`
 
-✅[Redux](https://redux.js.org)
+✅ [Redux](https://redux.js.org)
 
-<!-- React+TypeScript -->
-✅[React TypeScript Cheatsheet](https://react-typescript-cheatsheet.netlify.app/)
+✅ [React TypeScript Cheatsheet](https://react-typescript-cheatsheet.netlify.app/) `React+TypeScript`
 
-<!-- 常用的自定义Hooks -->
-✅[useHooks](https://usehooks.com/)
+✅ [useHooks](https://usehooks.com/) `常用的自定义Hooks`
 
 ## 第三方库
 
-✅[Ant Design](https://ant.design/index-cn)
+✅ [Ant Design](https://ant.design/index-cn)
 
-✅[Motion Design](https://motion.ant.design/index-cn)
+✅ [Motion Design](https://motion.ant.design/index-cn)
 
-<!-- React内配置Sass -->
-✅[添加 Sass 样式表](https://www.html.cn/create-react-app/docs/adding-a-sass-stylesheet/)
+✅ [添加 Sass 样式表](https://www.html.cn/create-react-app/docs/adding-a-sass-stylesheet/) `React内配置Sass`
