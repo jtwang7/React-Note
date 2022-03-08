@@ -4,7 +4,7 @@
 
 ✅ [Redux](https://redux.js.org)
 
-✅ [react-router](https://reactrouter.com/)
+✅ [React Router](https://reactrouter.com/)
 
 ✅ [Redux](https://redux.js.org)
 
