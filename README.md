@@ -38,7 +38,7 @@
 
 ✅ [Motion Design](https://motion.ant.design/index-cn)
 
-✅ [添加 Sass 样式表](https://www.html.cn/create-react-app/docs/adding-a-sass-stylesheet/) `React内配置Sass`
+✅ [Sass](https://sass-lang.com/) `css预处理器`
 
 ## 阅读清单
 
