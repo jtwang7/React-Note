@@ -40,6 +40,12 @@
 
 ✅ [Sass](https://sass-lang.com/) `css预处理器`
 
+✅ [react-spring](https://github.com/pmndrs/react-spring) `react 动画库`
+
+✅ [react-motion](https://github.com/chenglou/react-motion) `react 动画库`
+
+✅ [react-transition-group](https://reactcommunity.org/react-transition-group/) `react 动画库`
+
 ## 阅读清单
 
 ✅ [React技术揭秘](https://react.iamkasong.com/)
