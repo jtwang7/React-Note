@@ -50,6 +50,8 @@
 
 ✅ [react-formik](https://formik.org/) `react 表单`
 
+✅ [react-papaparse](https://www.npmjs.com/package/react-papaparse) `react csv 操作解决方案`
+
 ## 阅读清单
 
 ✅ [React技术揭秘](https://react.iamkasong.com/)
