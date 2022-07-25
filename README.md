@@ -57,3 +57,7 @@
 ## 阅读清单
 
 ✅ [React技术揭秘](https://react.iamkasong.com/)
+
+✅ [React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture) `React 核心开发 acdlite 对 React Fiber 的一些理解`
+
+✅ [【译】React Fiber Architecture](https://juejin.cn/post/6844903750658686983#comment) `React 核心开发 acdlite 对 React Fiber 的一些理解`
