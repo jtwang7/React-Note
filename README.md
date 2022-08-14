@@ -56,6 +56,8 @@
 
 ✅ [react-papaparse](https://www.npmjs.com/package/react-papaparse) `react csv 操作解决方案`
 
+✅ [react-draggable](https://github.com/react-grid-layout/react-draggable) `react draggable`
+
 ## 阅读清单
 
 ✅ [React技术揭秘](https://react.iamkasong.com/)
