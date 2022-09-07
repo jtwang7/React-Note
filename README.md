@@ -58,7 +58,11 @@
 
 ✅ [react-papaparse](https://www.npmjs.com/package/react-papaparse) `react csv 操作解决方案`
 
-✅ [react-draggable](https://github.com/react-grid-layout/react-draggable) `react draggable`
+✅ [react-draggable](https://github.com/react-grid-layout/react-draggable) `拖拽(不支持copy)`
+
+✅ [react-dnd](https://react-dnd.github.io/react-dnd/about) `拖拽(支持copy)`
+
+✅ [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) `拖拽`
 
 ## 阅读清单
 
