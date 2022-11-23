@@ -64,6 +64,8 @@
 
 ✅ [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) `拖拽`
 
+✅ [PapaParse](https://www.papaparse.com/) `前端解析 csv 的强力插件`
+
 ## 阅读清单
 
 ✅ [React技术揭秘](https://react.iamkasong.com/)
