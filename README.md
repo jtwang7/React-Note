@@ -75,3 +75,8 @@
 ✅ [【译】React Fiber Architecture](https://juejin.cn/post/6844903750658686983#comment) `React 核心开发 acdlite 对 React Fiber 的一些理解`
 
 ✅ [这可能是最通俗的 React Fiber(时间分片) 打开方式](https://juejin.cn/post/6844903975112671239) `😃 掘金好文`
+
+✅ **React Concurrent 模式**
+  - [React Concurrent 模式抢先预览上篇: Suspense the world](https://juejin.cn/post/6844903981999718407#comment)
+  - [React Concurrent 模式抢先预览下篇: useTransition 的平行世界](https://juejin.cn/post/6844903986420514823)
+
