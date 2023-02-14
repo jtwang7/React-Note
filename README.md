@@ -79,4 +79,11 @@
 ✅ **React Concurrent 模式**
   - [React Concurrent 模式抢先预览上篇: Suspense the world](https://juejin.cn/post/6844903981999718407#comment)
   - [React Concurrent 模式抢先预览下篇: useTransition 的平行世界](https://juejin.cn/post/6844903986420514823)
+  
+✅ [useEffect 完整指南](https://overreacted.io/zh-hans/a-complete-guide-to-useeffect/)
+
+✅ [How to fetch data with React Hooks](https://www.robinwieruch.de/react-hooks-fetch-data/)
+
+
+
 
